@@ -1,5 +1,5 @@
 # Data-structure
 
  Link list<br> 
- Stack 
- Queue
+ Stack <br>
+ Queue <br>
